@@ -6,6 +6,7 @@ ravi...@gmail.com,https://github.com/Knuts839
 
 ## Description
 
+This is entirely a backend application that I wrote to assist me with the repetitive work of creating Readmes for the various applications I developed. The technologies used were: node.js, inquirer, fs (file system), and path an internal library of node.js.
 I simply wanted my READMES to be more informative and professional. I want my READMES to be as clear to me a year from now as they are now.
 
 ## Table of Contents 
